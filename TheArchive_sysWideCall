@@ -1,3 +1,8 @@
+# This one is to call 'The Archive' from a system wide keyboard shortcut 
+# (defined in BetterTouchTool).  
+# It's a replica of nvALT's system wide keboard shortcut, 
+# but even better in that it works even if the app isn't running. 
+
 tell application "The Archive" to activate
 delay 0.1 # adjust to your system response time
 tell application "System Events"
