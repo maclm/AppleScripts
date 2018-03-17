@@ -1,5 +1,5 @@
 # This one is to call 'The Archive' from a system wide keyboard shortcut 
-# (defined in BetterTouchTool).  
+# (defined in BetterTouchTool), bringing it up ready to search.  
 # It's a replica of nvALT's system wide keboard shortcut, 
 # but even better in that it works even if the app isn't running. 
 
