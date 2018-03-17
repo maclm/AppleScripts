@@ -1,6 +1,6 @@
-// This one is to avoid TA (The Archive) to ovewrite files being modified externally.  
-// It simply moves TA's focus to the omnibar before openning the note in external editor.
-// I trigger it by highjacking the `Cmd-Shift-E` shortcut using BetterTouchTool.
+# This one is to avoid 'The Archive' to ovewrite files being modified externally.  
+# It simply moves focus to the omnibar before openning the note in external editor.
+# I trigger it by highjacking the `Cmd-Shift-E` shortcut using BetterTouchTool.
 
 tell application "The Archive" to activate
 delay 0.1 # adjust to your system response time
