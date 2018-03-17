@@ -1,0 +1,5 @@
+tell application "The Archive" to activate
+delay 0.1 # adjust to your system response time
+tell application "System Events"
+	keystroke "l" using {command down}
+end tell
